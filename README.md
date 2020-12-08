@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently working on some websites for friends and family.
+Coding seems to gradually taking over my life, and so is fighting the bugs that come with it 😂
 
 <!--
 **GiovanniReniero/GiovanniReniero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
