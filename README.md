@@ -1,6 +1,6 @@
 ### Hi there 👋
-Coding seems to gradually taking over my life, the bugs as well...
-Yikes!
+Coding seems to gradually taking over my life...I love it!
+
 <!--
 **GiovanniReniero/GiovanniReniero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
